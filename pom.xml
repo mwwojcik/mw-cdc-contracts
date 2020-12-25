@@ -5,8 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>mw.cdccontracts</groupId>
-  <artifactId>server</artifactId>
-  <version>0.0.1</version>
+  <artifactId>askmeapi</artifactId>
+  <version>1.0.0</version>
 
   <name>Contracts</name>
   <description>Contains all the Spring Cloud Contracts, well, contracts. JAR used by the
