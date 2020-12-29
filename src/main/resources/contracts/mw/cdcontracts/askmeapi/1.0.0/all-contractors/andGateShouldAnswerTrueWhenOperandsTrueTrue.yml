@@ -1,0 +1,12 @@
+request:
+  method: GET
+  url: /logic/and
+  queryParameters:
+    operandA: 1
+    operandB: 1
+response:
+  status: 200
+  headers:
+    Content-Type: text/plain;charset=ISO-8859-1
+  body:
+    "1"
